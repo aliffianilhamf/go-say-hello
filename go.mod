@@ -1,3 +1,3 @@
-module github.com/aliffianilhamf/go-say-hello
+module github.com/aliffianilhamf/go-say-hello/v2
 
 go 1.19
